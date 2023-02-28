@@ -1,5 +1,6 @@
 var jugador1 = "piedra";
 var jugador2 = "tijera";
+
 function jugando(jugador1, jugador2) {
     
 
